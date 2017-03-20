@@ -28,3 +28,19 @@ p {
    background: rgba(0, 0, 0, 0.3);
    padding: 50px;
 }
+
+#wedding {
+  background-color: rgba(128,203,196,0.2) !important;
+}
+
+#us {
+  background-color: rgba(128,203,196,0.2) !important;
+}
+
+#rsvp {
+  background-color: rgba(128,203,196,0.5) !important;
+}
+
+#rsvp-button {
+  background-color: rgba(128,203,196,1.0) !important;
+}

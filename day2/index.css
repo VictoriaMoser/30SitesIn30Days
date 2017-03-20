@@ -19,3 +19,12 @@ p {
 .bgimg2 {
   background-image: url("img/wedding2.jpg");
 }
+
+#textbox {
+   color: white;
+   font: bold 24px/45px Helvetica, Sans-Serif;
+   letter-spacing: -1px;
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.3);
+   padding: 50px;
+}
